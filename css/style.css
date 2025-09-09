@@ -41,6 +41,7 @@ body {
     transition: transform 0.3s ease;
     user-select: none;
     font-size: 40px;
+    touch-action: none;
   }
   /* Animation for trash when picked up */
   .wiggle {
